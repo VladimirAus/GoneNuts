@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#playground{
+	background: url(../images/bg_tree_850x555.jpg) no-repeat 0 0 #e0ffe0;
+	width: 850px;
+	height: 555px;
+	position: relative;
+	overflow: hidden;
+}
+
+#nut {
+	background: #FC0;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 150px;
+	top: 100px;
+	border-radius: 10px;
+}
+
+.nutter {
+	background: #FF6;
+	left: 450px;
+	top: 370px;
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	
+	border-radius: 5px;
+}
+
+#nutterB {
+	left: 280px;
+	top: 160px;
+	background: #FCC;
+}
